@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bouton_calcul">Calculatrice en allemand</string>
+    <string name="bouton_historique">Historique en allemand</string>
+</resources>

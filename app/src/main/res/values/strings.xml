@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">groupe_alternant_2025</string>
+    <string name="bouton_calcul">Calculatrice</string>
+    <string name="bouton_historique">Historique</string>
+</resources>
