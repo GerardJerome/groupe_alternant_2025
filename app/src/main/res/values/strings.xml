@@ -16,6 +16,8 @@
     <string name="bouton_2" translatable="false">2</string>
     <string name="bouton_1" translatable="false">1</string>
     <string name="bouton_0" translatable="false">0</string>
+    <string name="bouton_raz"> RAZ </string>
+    <string name="bouton_egale"> EQUAL</string>
 
 
 </resources>

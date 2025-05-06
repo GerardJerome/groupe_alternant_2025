@@ -2,4 +2,8 @@
 <resources>
     <string name="bouton_calcul">Calculatrice en allemand</string>
     <string name="bouton_historique">Historique en allemand</string>
+    <string name="bouton_raz"> RAZ  en allemand</string>
+    <string name="bouton_egale"> EQUAL mais en allemand</string>
+
+
 </resources>
